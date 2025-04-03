@@ -7,7 +7,7 @@ Robot eyes with the 0.71inch DualEye LCD Module from Waveshare connected to ESP3
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
-- Double EYE 0.71 inch Round LCD Display: https://s.click.aliexpress.com/e/_olZD5lr
+- Double EYE 0.71 inch Round LCD Display: https://s.click.aliexpress.com/e/_oDD8MKD
 - ESP32C3 Zero: https://s.click.aliexpress.com/e/_omPm1vJ
 - LCD Image Converter: https://lcd-image-converter.riuson.com/en/about/
 - Image2cpp (convert array to image): https://javl.github.io/image2cpp/
